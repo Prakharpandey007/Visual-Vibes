@@ -1,5 +1,6 @@
 import React,{useId} from 'react'
 
+//syntax-1 of writing the forwardRef
 
 const Input=React.forwardRef(function Input({
     label,
